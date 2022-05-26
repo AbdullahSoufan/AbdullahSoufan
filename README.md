@@ -1,4 +1,5 @@
-https://github.com/AbdullahSoufan/
+file:///D:/Users/Downloads/banner.png
+
 💻 Certified BA degree of computer engineering.
 
 🚀 I'm currently training as a backend developer at Kiitos Technologies company.
