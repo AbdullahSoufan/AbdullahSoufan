@@ -1,4 +1,5 @@
-https://www.cukeragency.com/prodcuker/media/portfolio/2021/03/12/Callaway-Main-Banner-X.jpg
+
+![banner](https://user-images.githubusercontent.com/93823103/170477757-f64b2310-82ab-49c5-89cf-a1682176a697.png)
 
 💻 Certified BA degree of computer engineering.
 
